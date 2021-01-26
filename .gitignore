@@ -2,3 +2,9 @@
 /vendor/*
 /.phpunit.result.cache
 /composer.lock
+.idea/codeStyles/codeStyleConfig.xml
+.idea/modules.xml
+.idea/php.xml
+.idea/pixabay-library.iml
+.idea/vcs.xml
+.idea/workspace.xml
